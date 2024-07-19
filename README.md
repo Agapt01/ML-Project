@@ -1,2 +1,2 @@
 # ML-Project
-## My first Modeling Language project
+## Machine learning project
